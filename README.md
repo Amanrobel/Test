@@ -1,14 +1,16 @@
 # Test
 Amanuel's Incredible Site.
 
-This site is about the incredible people that Amanuel every day and makes his day **AMAZING**
+This site is about the Amanuel favorite places in the **world**
 
-1. *Atlanta* - I  get to rub elbows with Shemaiah, Keria and Jerzi who allow me to be me.
+1. *Atlanta* 
 
-2. *Austin* - I get to match wits with Long, Jurnee, and Jordan who tell me my baskeball game is weak!
+2. *Las Vegas* 
    
-3. *charlotte*- I get to learn with Jazz, Amy, and Justin who teach me shortcuts in Advanced Excel.
+3. *Settle*
 
 Here is Amanuel's GitHub site.
 
-![Amanuel](Amanuel.jpg)
+![Atlanta](Atlanta.jpg)
+![Las Vegas](LasVegas.jpg)
+![Seattle](Seattle.jpg)
