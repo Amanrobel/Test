@@ -12,5 +12,5 @@ This site is about the Amanuel favorite places in the **world**
 Here is Amanuel's GitHub site.
 
 ![Atlanta](Atlanta.jpg)
-![Las Vegas](LasVegas.jpg)
+![LasVegas](LasVegas.jpg)
 ![Seattle](Seattle.jpg)
