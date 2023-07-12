@@ -7,7 +7,7 @@ This site is about the Amanuel favorite places in the **world**
 
 2. *Las Vegas* 
    
-3. *Settle*
+3. *Seattle*
 
 Here is Amanuel's GitHub site.
 
