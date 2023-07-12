@@ -13,4 +13,4 @@ Here is Amanuel's GitHub site.
 
 ![Atlanta](Atlanta.jpg)
 ![LasVegas](LasVegas.jpg)
-![Seattle](Seattle.jpg)
+![Seattle](Seattle.webp)
