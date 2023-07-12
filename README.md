@@ -11,4 +11,4 @@ This site is about the incredible people that Amanuel every day and makes his da
 
 Here is Amanuel's GitHub site.
 
-![Amanuel Baraki 1](Github.jpg)
+![Amanuel](Amanuel.jpg)
