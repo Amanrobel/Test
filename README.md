@@ -1,7 +1,7 @@
-# Test
+# Vist Places
 Amanuel's Incredible Site.
 
-This site is about the Amanuel favorite places in the **world**
+This site is about the Amanuel favorite places in the **USA**
 
 1. *Atlanta* 
 
